@@ -4,9 +4,6 @@
 <br/>Добавлен новый текстовый выбор режима длительности игры.
 <br/>**Ссылка на самый популярный дискорд сервер по петрам где находятся все игроки петров:**
 <br/><a href="https://discord.gg/KVysWdbec9"><img src="https://github.com/strst/petribalans8.01/blob/main/image/sailor%20moon1.jpg?raw=true"/></a>
-![Image Discord Server](https://github.com/strst/petribalans8.01/blob/main/image/sailor%20moon1.jpg?raw=true)
-<br/>[ссылка](https://discord.gg/KVysWdbec9)
-<br/>
 <br/>-fora 1-20
 <br/>Фора дает допольнительное время к выходу, так же запрещенно переставлять выход.
 <br/>Помимо этого добавленны и измененны новые способности:
