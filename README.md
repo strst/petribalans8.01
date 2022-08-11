@@ -1,8 +1,9 @@
 # petribalans8.01
-![alt text](http://github.com/strst/petribalans8.01/blob/main/image/petri.jpg?raw=true)
+![Image Petri](http://github.com/strst/petribalans8.01/blob/main/image/petri.jpg?raw=true)
 <br/>Репозиторий посвящен игре петров, здесь вы найдете исходники карты, так же описание патчей и различные гайды
 <br/>Добавлен новый текстовый выбор режима длительности игры.
 <br/>**Ссылка на самый популярный дискорд сервер по петрам где находятся все игроки петров:**
+![Image Discord Server](https://github.com/strst/petribalans8.01/blob/main/image/sailor%20moon1.jpg?raw=true)
 <br/>[ссылка](https://discord.gg/KVysWdbec9)
 <br/>
 <br/>-fora 1-20
