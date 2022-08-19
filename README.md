@@ -32,5 +32,5 @@
 <br/>**Кодер: kjjunh**
 <br/>*Сооавторы, которые закончили разработку: Nikolas-Super, JertvaAborta, Soackingfawk*
 <br/>*Помощники: Zombak, Savva, .Mpmps*
-<br/>*Тестировщики: Nepc,Zombak, Savva, .Mpmps*
+<br/>*Тестировщики: Nepc, Zombak, Savva, .Mpmps*
 <br/>Идеи: kjjunh
